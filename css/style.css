@@ -46,11 +46,6 @@ text-align: center;
 section{
   clear:left;
   }
-section::before{
-content:"......................................................................................";
-
-}
-
 .separador {
   float:left;
   position:relative;
